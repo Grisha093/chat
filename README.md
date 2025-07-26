@@ -1,6 +1,6 @@
 # untitled1
 
-A new Flutter project.
+это проект на флаттер.
 
 ## Getting Started
 
